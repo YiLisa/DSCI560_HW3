@@ -6,6 +6,9 @@ MyWonder is a product of _Khider&Garijo CORP_.
 ## Wastes
 
 ## Deliverables
+- Updated UI: with new terminology, contents and area to put note.
+- Visualization examples: to show users how this visualization work
+- PowerPoint:Powerpoint with screenshots to walk through a visualization
 
 ## Milestone
 
