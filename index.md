@@ -19,7 +19,7 @@ This is very important because it means our product is officially ready to serve
 
 
 ## Gantt chart
-#### Waterfall:  
+**Waterfall Methodology:**  
 ![Gantt waterfall](https://github.com/YiLisa/DSCI560_HW3/blob/gh-pages/Gantt%20diagram%20waterfall.png)
-#### Agile:
+**Agile Methodology:**
 ![Gantt Agile](https://github.com/YiLisa/DSCI560_HW3/blob/gh-pages/Gantt%20diagram%20agile.png)
