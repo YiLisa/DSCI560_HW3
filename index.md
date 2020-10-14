@@ -14,11 +14,12 @@ MyWonder is a product of _Khider&Garijo CORP_.
 - **PowerPoint:** Powerpoint with screenshots to walk through a visualization
 
 ## Milestone
-Release of MyWonder flatform.  
+**Release of MyWonder flatform.**  
 This is very important because it means our product is officially ready to serve customers. It marks we completed the first version of MyWonder and all functions and contents are working as intended.
 
 
 ## Gantt chart
 #### Waterfall:  
-
+![Gantt waterfall](https://github.com/YiLisa/DSCI560_HW3/blob/gh-pages/Gantt%20diagram%20waterfall.png)
 #### Agile:
+![Gantt Agile](https://github.com/YiLisa/DSCI560_HW3/blob/gh-pages/Gantt%20diagram%20agile.png)
