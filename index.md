@@ -4,7 +4,8 @@ With MyWonder, users can easily creat visualization from massive files within 10
 By distributing the files on the cloud, users can calculate their analytics and summaries from their phone conveniently.   
 MyWonder is a product of _Khider&Garijo CORP_.
 ## Wastes
-- **Transport/waiting**: The feedback from customers need go through customer support team, designer to the developer. And CEO need to call customer assistance constantly for information. Useful information can be missed during these extra steps, so this workflow should be improved. 
+- **Transport:** The feedback from customers need go through customer support team, designer to the developer. And CEO need to call customer assistance constantly for information. Useful information can be missed during these extra steps, so this workflow should be improved. 
+- **Defects:** Not using understandable terminology and contents.
 - 
 
 ## Deliverables
