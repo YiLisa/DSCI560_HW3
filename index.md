@@ -19,5 +19,6 @@ This is very important because it means our product is officially ready to serve
 
 
 ## Gantt chart
+#### Waterfall:  
 
-
+#### Agile:
