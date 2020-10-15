@@ -10,7 +10,7 @@ MyWonder is a product of _Khider&Garijo CORP_.
 
 ## Deliverables
 - **Updated UI:** with new terminology and contents which are easily understandable for users.
-- **Note function:** A new area to put note.
+- **Note function:** Create a new area on UI to put note.
 - **Visualization examples:** to show users how this visualization work.
 - **PowerPoint:** Powerpoint with screenshots to walk through a visualization.
 
