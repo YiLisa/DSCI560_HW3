@@ -9,12 +9,13 @@ MyWonder is a product of _Khider&Garijo CORP_.
 - **Skill:** There is no separate testing and production enviornments for someone to quickly change contents before a demo.
 
 ## Deliverables
-- **Updated UI:** with new terminology, contents and area to put note.
-- **Visualization examples:** to show users how this visualization work
-- **PowerPoint:** Powerpoint with screenshots to walk through a visualization
+- **Updated UI:** with new terminology and contents which are easily understandable for users.
+- **Note function:** A new area to put note.
+- **Visualization examples:** to show users how this visualization work.
+- **PowerPoint:** Powerpoint with screenshots to walk through a visualization.
 
 ## Milestone
-**Release of MyWonder flatform.**  
+**Release of MyWonder platform.**  
 This is very important because it means our product is officially ready to serve customers. It marks we completed the first version of MyWonder and all functions and contents are working as intended.
 
 
