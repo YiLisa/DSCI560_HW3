@@ -21,6 +21,6 @@ This is very important because it means our product is officially ready to serve
 
 ## Gantt chart
 **Waterfall Methodology:**  
-![Gantt waterfall](/Gantt%20diagram%20waterfall.png)  
+![Gantt waterfall](/Gantt_diagram_waterfall.png)  
 **Agile Methodology:**  
-![Gantt Agile](/Gantt%20diagram%20agile.png) 
+![Gantt Agile](/Gantt_diagram_agile.png) 
